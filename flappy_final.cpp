@@ -15,8 +15,8 @@
 #include <algorithm>
 
 // ─── Kích thước cửa sổ ──────────────────────────────────────
-static constexpr int W = 1980;
-static constexpr int H = 1080;
+static constexpr int W = 45;
+static constexpr int H = 110;
 
 // ─── Hằng số gameplay ───────────────────────────────────────
 static constexpr float GRAVITY       = 0.3f;
